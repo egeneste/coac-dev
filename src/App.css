@@ -1,0 +1,21 @@
+:root {
+  --brown-color: #472d2d;
+  --green-color: #cdf0ea;
+  --white-color: #f9f9f9;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  height: 100vh;
+  padding-top: 60px;
+}
+
+.App {
+  min-height: 100vh;
+}
