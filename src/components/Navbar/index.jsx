@@ -34,7 +34,7 @@ const index = () => {
               to="/products"
               className="nav_link"
             >
-              Products
+              Services
             </NavLink>
             <NavLink
               onClick={() => setIsMobile(false)}
